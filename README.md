@@ -1,4 +1,4 @@
-[![MasterHead](https://mobirise.com/engine/data/upload/2019/02/code-editor-color.jpg)](https://rishavchanda.io)
+[![MasterHead](https://c8.alamy.com/comp/MP6D15/job-opening-front-end-developer-3d-MP6D15.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nora Mohamed Salah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nora-mohamed-salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nora-mohamed-salah" height="30" width="40" /></a>
-<a href="https://fb.com/nora mohamed salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nora mohamed salah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nora-mohamed-salah-286940152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nora-mohamed-salah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nora.mohamedsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nora mohamed salah" height="30" width="40" /></a>
 <a href="https://instagram.com/nora.mohamed213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nora.mohamed213" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nora mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nora mohamed" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user9557as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nora mohamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

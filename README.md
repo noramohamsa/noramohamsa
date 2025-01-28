@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noramohamsa&label=Profile%20views&color=0e75b6&style=flat" alt="noramohamsa" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **nora.mohamed213@gmail.com**
 
@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/nora-mohamed-salah-286940152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nora-mohamed-salah" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nora.mohamedsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nora mohamed salah" height="30" width="40" /></a>
 <a href="https://instagram.com/nora.mohamed213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nora.mohamed213" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/user9557as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nora mohamed" height="30" width="40" /></a>
 </p>
 

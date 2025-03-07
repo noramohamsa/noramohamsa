@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noramohamsa&label=Profile%20views&color=0e75b6&style=flat" alt="noramohamsa" /> </p>
 
-- 🌱 I’m currently learning **TypeScript & Tailwindcss & Vite $ Pnpm $ React Router $ Docker $ Performance$Optimization and  Next.Js **
+- 🌱 I’m currently learning **TypeScript & Tailwindcss & Vite $ Pnpm $ React Router $ Performance$Optimization **
 
 - 📫 How to reach me **nora.mohamed213@gmail.com**
 
